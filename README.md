@@ -2,8 +2,7 @@
 # 💪 Challenge: Synchronising display with input
 
 ### 🧐 Validation criteria
- - The provided link points to your fork of the template on https://codesandbox.io.
- - The `<h1>` field must change along with the value in the <input>.
+ - The `<h1>` field must change along with the value in the `<input>`.
  - The value of the `<input>` is not fixed and comes from the state.
  - The value of the `<input>` is updated using the event handler associated with onChange.
  - The * character is not displayed when it is entered.
